@@ -1,0 +1,24 @@
+{
+  "name": "excaviar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airdropholic/excaviar.git"
+  },
+  "author": "airdrop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airdropholic/excaviar/issues"
+  },
+  "homepage": "https://github.com/airdropholic/excaviar#readme",
+  "dependencies": {
+    "excavato": "^1.0.0",
+    "not-rf-online": "^1.0.0",
+    "sinomatatabi": "^1.0.0"
+  }
+}
